@@ -1,7 +1,8 @@
 # Data_Science_Internship_G2_BWF_Malaika_Ahmed 
 <br>
-This repository is for task submission of Data Science Fellowship at Bytewise Limited
-Author : Malaika Ahmed
+- This repository is for task submission of Data Science Fellowship at Bytewise Limited
+
+- Author : Malaika Ahmed
 
 _______________________________________
 
