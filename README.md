@@ -66,11 +66,34 @@ This repository contains the work and learning journey throughout my **100-day D
    - **Description**: Understanding the enrollment trends of online courses offered by a university and extracting important insights from the dataset.
    - **Goal**: Identifying the factors that contribute to higher enrollment and determining if the course type (online or classroom) is a significant factor in enrollment numbers.
    - **Key Concepts**: Statistics, Data Cleaning, Transformations, Data Visualizations
+  
+
+
+
+
+
+![ct](https://github.com/user-attachments/assets/6ff45333-701c-4366-85dc-cc8e7e376eb2)
+
+
+
+
+     
 
 2. **Mini-Project 2: Regression Models**  
    - **Description**: In this mini-project, I picked a titanic dataset related to a regression problem, cleaned it, performed exploratory data analysis (EDA), applied data transformations, and conducted statistical tests (such as hypothesis testing). 
    - **Goal**: Built a variety of regression models including baseline models (SVM, Linear Regression, Random Forest, Decision Trees, Gradient Boosting), and also implemented an Artificial Neural Network (ANN).
    - **Key Concepts**: Model Evaluation, Error Curves (Overfitting/Underfitting), Convolutional Neural Networks (1D CNN followed by ANN layers)
+
+
+
+
+
+
+      ![ec](https://github.com/user-attachments/assets/d8a255ff-ccec-4c0b-bc68-98a5f92f75e9)
+
+
+
+
 
 3. **Capstone Project: Book Recommender System**  
    - **Description**: The capstone project focused on building a book recommendation system using **popularity-based** and **collaborative filtering** techniques.
@@ -81,6 +104,33 @@ This repository contains the work and learning journey throughout my **100-day D
      - Collaborative Filtering
      - Popularity-Based Recommendation
      - Data Preprocessing and Transformation
+    
+
+       
+
+
+![1](https://github.com/user-attachments/assets/abaf9fec-f4c2-417e-a61d-d98f223a140f)
+
+
+
+
+
+
+
+![2](https://github.com/user-attachments/assets/2161b24d-b62c-42d1-bfb5-4d3c6ce9c44d)
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________________________________
 
 ## Key Learnings
 
