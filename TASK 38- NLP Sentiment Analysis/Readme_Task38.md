@@ -1,4 +1,4 @@
-# **Task 38 NLP (SENTIMENT ANALYSIS)
+# **Task 38 NLP (SENTIMENT ANALYSIS)**
 ## Objective
 This project focuses on building a Sentiment Analysis model to classify movie reviews as positive, negative, or neutral. The task involves data preprocessing, training machine learning models, and evaluating their performance.
 ## Dataset
