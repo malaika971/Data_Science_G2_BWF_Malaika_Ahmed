@@ -62,7 +62,7 @@ ________________________________________
 
 ### **End of Month Projects:**
 
-1. **Mini-Project 1: Data Analysis**  
+## 1. **Mini-Project 1: Data Analysis**  
    - **Description**: Understanding the enrollment trends of online courses offered by a university and extracting important insights from the dataset.
    - **Goal**: Identifying the factors that contribute to higher enrollment and determining if the course type (online or classroom) is a significant factor in enrollment numbers.
    - **Key Concepts**: Statistics, Data Cleaning, Transformations, Data Visualizations
@@ -79,7 +79,7 @@ ________________________________________
 
 _________________________________________________________________
 
-2. **Mini-Project 2: Regression Models**  
+## 2. **Mini-Project 2: Regression Models**  
    - **Description**: In this mini-project, I picked a titanic dataset related to a regression problem, cleaned it, performed exploratory data analysis (EDA), applied data transformations, and conducted statistical tests (such as hypothesis testing). 
    - **Goal**: Built a variety of regression models including baseline models (SVM, Linear Regression, Random Forest, Decision Trees, Gradient Boosting), and also implemented an Artificial Neural Network (ANN).
    - **Key Concepts**: Model Evaluation, Error Curves (Overfitting/Underfitting), Convolutional Neural Networks (1D CNN followed by ANN layers)
@@ -96,7 +96,7 @@ _________________________________________________________________
 
 
 _______________________________________________________________________
-3. **Capstone Project: Book Recommender System**  
+## 3. **Capstone Project: Book Recommender System**  
    - **Description**: The capstone project focused on building a book recommendation system using **popularity-based** and **collaborative filtering** techniques.
    - **Goal**: Recommend books based on similarity scores using **Euclidean Distance**.
    - **Tools**: PyCharm, Colab
