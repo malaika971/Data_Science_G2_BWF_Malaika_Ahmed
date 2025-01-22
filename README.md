@@ -14,7 +14,7 @@ This repository contains the work and learning journey throughout my **100-day D
 
 ## Internship Breakdown
 
-### 1. **Foundations (Day 1 - 30)**
+## 1. **Foundations (Day 1 - 30)**
 
 - **Introduction to Git**: Understanding version control using Git, setting up repositories, and using GitHub for projects submission.
 - **Jupyter Notebook**: Writing and running Python code in Jupyter Notebooks, which became an essential tool for data analysis and model building.
@@ -22,20 +22,20 @@ This repository contains the work and learning journey throughout my **100-day D
   - Core Python concepts: variables, data types, loops, functions, and error handling.
   - Object-Oriented Programming (OOP): Classes, objects, inheritance, and polymorphism.
   - Data Structures: Lists, tuples, dictionaries, and sets.
-
-### 2. **Libraries for Data Science (Day 31 - 50)**
+_____________________________
+## 2. **Libraries for Data Science (Day 31 - 50)**
 
 - **NumPy**: Working with arrays, vectorized operations, and linear algebra using NumPy.
 - **Pandas**: Data manipulation and cleaning with Pandas DataFrames, handling missing data, and exploring real-world datasets.
 - **Matplotlib & Seaborn**: Data visualization for better insights; creating various types of plots like histograms, bar charts, scatter plots, and heatmaps.
 - **Scikit-learn**: Building machine learning models, including regression and classification, using scikit-learn.
-
-### 3. **Mathematics for Data Science (Day 51 - 60)**
+______________________________________
+## 3. **Mathematics for Data Science (Day 51 - 60)**
 
 - **Calculus**: Concepts like differentiation and integration to understand optimization algorithms used in machine learning.
 - **Linear Algebra**: Vectors, matrices, eigenvalues, eigenvectors, and their applications in machine learning algorithms (e.g., PCA, Singular Value Decomposition).
-
-### 4. **Machine Learning Fundamentals (Day 61 - 80)**
+_______________________________________________
+## 4. **Machine Learning Fundamentals (Day 61 - 80)**
 
 - **Regression from Scratch**: Implemented linear regression from the ground up to understand the underlying mechanics and optimization techniques.
 - **Regression using scikit-learn**: Built regression models using scikit-learn, evaluated their performance using metrics like RMSE, MAE, and R² score.
@@ -46,8 +46,8 @@ This repository contains the work and learning journey throughout my **100-day D
 - **Overfitting and Underfitting**: Identified and mitigated overfitting and underfitting issues with model tuning and regularization techniques.
 - **Hyperparameter Tuning**: Used GridSearchCV and RandomizedSearchCV to optimize hyperparameters for better model performance.
 - **Preprocessing**: Applied preprocessing steps such as scaling, encoding categorical variables, and imputing missing values using scikit-learn.
-
-### 5. **Advanced Topics (Day 81 - 100)**
+_________________________________________
+## 5. **Advanced Topics (Day 81 - 100)**
 
 - **Dimensionality Reduction**: Implemented PCA (Principal Component Analysis) and t-SNE for reducing the feature space and improving model efficiency.
 - **K-Means Clustering**: Learned unsupervised learning through K-Means clustering, used for segmenting data into groups.
@@ -57,10 +57,10 @@ This repository contains the work and learning journey throughout my **100-day D
   - **Recurrent Neural Networks (RNN)**: Explored RNNs for sequential data like time-series and text data.
   - **Long Short-Term Memory (LSTM)**: Delved into LSTMs for handling long-term dependencies in sequential data.
 - **Natural Language Processing (NLP)**: Learned the basics of NLP, including text preprocessing, tokenization, stemming, lemmatization, and building models for text classification.
+________________________________________
+## 6. **Projects**
 
-### 6. **Projects**
-
-#### **End of Month Projects:**
+### **End of Month Projects:**
 
 1. **Mini-Project 1: Data Analysis**  
    - **Description**: Understanding the enrollment trends of online courses offered by a university and extracting important insights from the dataset.
@@ -77,7 +77,7 @@ This repository contains the work and learning journey throughout my **100-day D
 
 
 
-     
+_________________________________________________________________
 
 2. **Mini-Project 2: Regression Models**  
    - **Description**: In this mini-project, I picked a titanic dataset related to a regression problem, cleaned it, performed exploratory data analysis (EDA), applied data transformations, and conducted statistical tests (such as hypothesis testing). 
@@ -95,6 +95,7 @@ This repository contains the work and learning journey throughout my **100-day D
 
 
 
+_______________________________________________________________________
 3. **Capstone Project: Book Recommender System**  
    - **Description**: The capstone project focused on building a book recommendation system using **popularity-based** and **collaborative filtering** techniques.
    - **Goal**: Recommend books based on similarity scores using **Euclidean Distance**.
